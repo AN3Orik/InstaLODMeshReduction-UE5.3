@@ -1,0 +1,34 @@
+<img src="InstaLODMeshReduction.HeaderImage"/>﻿
+
+
+<InstaLODMeshReduction.H2>Quick start</>
+    1. Open a static mesh or skeletal mesh uasset.
+	2. Add a LOD chain entry.
+    3. Find the 'Reduction Settings' inside the 'Details' panel.
+    4. Change 'Percent Triangles' to define the target amount of triangles.
+    5. Press 'Apply Changes' to rebuild your mesh with the current settings.
+
+
+<InstaLODMeshReduction.H2>Online Documentation</>
+The documentation for InstaLOD for Unreal Engine is available online at <a id="browser" href="https://docs.instalod.io/en/Products/Integrations/InstaLOD_For_UE" style="InstaLODMeshReduction.Hyperlink">https://docs.instalod.io/en/Products/Integrations/InstaLOD_For_UE</>.
+
+
+
+<InstaLODMeshReduction.H2>License Information</>
+%LICENSEINFORMATION%
+
+<InstaLODMeshReduction.H3>Machine Deauthorization</>
+In order to deauthorize a license an active internet connection is required.
+NOTE: It takes up to 24 hours until the seat/node is available for activation on another machine.
+<a id="deauthorize" href="http://www.instalod.io/deauthorize" style="InstaLODMeshReduction.Hyperlink">CLICK HERE TO DEAUTHORIZE MACHINE AND REMOVE LICENSE</>
+
+
+
+<InstaLODMeshReduction.H2>About</>
+%VERSION%
+
+<img src="InstaLODMeshReduction.HeaderImage"/>﻿
+<a id="browser" href="http://www.instalod.com" style="InstaLODMeshReduction.Hyperlink">www.InstaLOD.com</>
+
+
+© 2016-2018 InstaLOD UG (haftungsbeschraenkt). All Rights Reserved.
