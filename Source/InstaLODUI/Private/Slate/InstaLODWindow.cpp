@@ -512,7 +512,7 @@ TSharedRef<ITableRow> SInstaLODWindow::MakeComponentListItemWidget(TSharedPtr<FI
 			SNew(SCheckBox)
 			.IsChecked(CheckBoxState)
 			.ToolTipText(NSLOCTEXT("InstaLODUI", "IncludeMeshInOperation", "If selected, the mesh will be included in the mesh operation."))
-			.OnCheckStateChanged_Lambda([=](ECheckBoxState NewState)
+			.OnCheckStateChanged_Lambda([=, this](ECheckBoxState NewState)
 								  {
 									  MeshComponent->bShouldBeIncluded = (NewState == ECheckBoxState::Checked);
 									  OnNewSelectionDelegate.Broadcast();

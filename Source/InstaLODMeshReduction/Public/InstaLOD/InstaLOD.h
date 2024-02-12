@@ -16,6 +16,8 @@
 
 #include "Runtime/Launch/Resources/Version.h"
 #include "MeshUtilities.h"
+#include "SkeletalMeshReductionSettings.h"
+#include "Engine/SkinnedAssetCommon.h"
 
 namespace InstaLOD
 {

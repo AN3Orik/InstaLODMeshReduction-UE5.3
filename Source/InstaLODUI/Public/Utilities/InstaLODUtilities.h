@@ -16,11 +16,11 @@
 #include "InstaLODTypes.h"
 #include "InstaLOD/InstaLODAPI.h"
 #include "InstaLOD/InstaLOD.h"
+#include "Scripting/Settings/InstaLODResultSettings.h"
 #include "InstaLOD/InstaLODMeshExtended.h"
 
 #include "CoreMinimal.h"
 #include "UObject/NoExportTypes.h"
-
 
 struct InstaLODMergeData
 {
